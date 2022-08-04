@@ -1,3 +1,15 @@
+# Inotebook
+
+### Objective
+this is note taking app develop in MERN Stack 
+
+### Video
+
+
+https://user-images.githubusercontent.com/77239125/182834966-e9c17b79-01d5-4630-b3c2-7a4acb56972d.mp4
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
