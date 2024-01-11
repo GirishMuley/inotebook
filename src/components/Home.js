@@ -3,6 +3,7 @@ import Notes from "./Notes";
 
 const Home = (props) => {
   const { showAlert } = props;
+  const { setColor } = props;
   return (
     <div>
       <Notes showAlert={showAlert} />

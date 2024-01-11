@@ -12,9 +12,9 @@ const NavBar = () => {
 
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+      <nav className="navbar navbar-expand-lg navbar-warning bg-warning">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand text-dark" to="/">
             iNotebook
           </Link>
           <button
@@ -30,9 +30,9 @@ const NavBar = () => {
           </button>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-              <li className="nav-item">
+              <li className="nav-item ">
                 <Link
-                  className={`nav-link ${
+                  className={`nav-link text-dark ${
                     location.pathname === "/" ? "active" : ""
                   }`}
                   aria-current="page"
@@ -43,7 +43,7 @@ const NavBar = () => {
               </li>
               <li className="nav-item">
                 <Link
-                  className={`nav-link ${
+                  className={`nav-link text-dark${
                     location.pathname === "/about" ? "active" : ""
                   }`}
                   to="/about"
