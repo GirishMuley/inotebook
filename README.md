@@ -14,8 +14,7 @@ MERN stack
 
 ### Video
 
-
-https://user-images.githubusercontent.com/77239125/182834966-e9c17b79-01d5-4630-b3c2-7a4acb56972d.mp4
+https://github.com/GirishMuley/inotebook/assets/77239125/1cfcc630-4da7-4941-9fdf-825bd367fcfb
 
 
 
