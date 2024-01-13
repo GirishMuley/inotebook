@@ -1,7 +1,16 @@
 # Inotebook
 
 ### Objective
-this is note taking app develop in MERN Stack 
+this is note taking app, we can use on any device.
+
+### Tech stack
+MERN stack
+
+### Technical features
+1. Redux
+2. bcryptjs
+3. REST API Auth via Passport JWT
+
 
 ### Video
 
